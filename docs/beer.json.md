@@ -15,3 +15,5 @@
 | **equipments** |  | array of [EquipmentType](equipment.json.md#equipmenttype)| Provides necessary information for brewing equipment. |
 | **boil** |  | array of [BoilProcedureType](boil.json.md#boilproceduretype)| A collection of steps providing process information for common boil procedures. |
 | **packaging** |  | array of [PackagingProcedureType](packaging.json.md#packagingproceduretype)| A collection of steps providing process information for common packaging procedures. |
+| **logs** |  | array of [BrewLogType](brewlog.json.md#brewlogtype)| A collection of brew logs that collect information of a specific brew. |
+
